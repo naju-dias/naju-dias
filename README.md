@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="left">👩🏻‍💻 Ana Julia Dias</h1>
 
 ###

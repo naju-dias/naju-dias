@@ -1,16 +1,22 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+a+Ana+Julia+Dias!;" />
-</h1>
+<h1>Olá! 👋 Sou a Ana Julia Dias!</h1>
 
 ###
 
-<p align="left">Engenheira de Software</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Engenheira+de+Software;UX%2FUI+Designer;Desenvolvedora+FullStack)](https://git.io/typing-svg)
 
-###
 
 <p align="left">Eu sou uma studante de Engenharia de Software apaixonada por tecnologia, dedicada a aprender continuamente e a construir soluções práticas com programação.</p>
 
-###
+<hr/>
+
+<h2>Linguagens-Frameworks-Tools</h2>
+<br/>
+<div>
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,tailwind,git,github,figma,blender,grafana,mysql" />
+<br>
+</div>
+
+<hr/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naju-dias&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />

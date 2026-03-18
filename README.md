@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Engenheira+de+Software;UX%2FUI+Designer;Desenvolvedora+FullStack)](https://git.io/typing-svg)
 
 
-<p align="left"><p align="left">Sou uma estudante de Engenharia de Software apaixonada por tecnologia e em constante evolução. Atualmente focada na evolução das minhas habilidades em programação, explorando áreas como desenvolvimento web, segurança da informação, infraestrutura e design. Busco aplicar meus conhecimentos na criação de soluções eficientes e inovadoras, sempre aberta a novos desafios e oportunidades de aprendizado.</p>
+<p align="left"><p align="left">Sou uma estudante de Engenharia de Software apaixonada por tecnologia e em constante evolução. Atualmente focada na evolução das minhas habilidades em programação, explorando áreas como desenvolvimento web, segurança da informação, infraestrutura e design. Busco aplicar meus conhecimentos na criação de soluções eficientes e inovadoras, sempre aberta a novos desafios e oportunidades.</p>
 
 </div>
 <div align="right"> 

@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Engenheira+de+Software;UX%2FUI+Designer;Desenvolvedora+FullStack)](https://git.io/typing-svg)
 
 
-<p align="left">Eu sou uma studante de Engenharia de Software apaixonada por tecnologia, dedicada a aprender continuamente e a construir soluções práticas com programação.</p>
+<p align="left"><p align="left">Sou uma estudante de Engenharia de Software apaixonada por tecnologia e em constante evolução. Atualmente focada na evolução das minhas habilidades em programação, explorando áreas como desenvolvimento web, segurança da informação, infraestrutura e design. Busco aplicar meus conhecimentos na criação de soluções eficientes e inovadoras, sempre aberta a novos desafios e oportunidades de aprendizado.</p>
 
 </div>
 <div align="right"> 
@@ -28,16 +28,15 @@
 
 <hr/>
 
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naju-dias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naju-dias&layout-compact&langs_count=16&theme=dracula"/>
 </div>
 
+#
 
-
-###
-
-<img src="https://raw.githubusercontent.com/naju-dias/naju-dias/output/snake.svg" alt="Snake animation" />
-
-###
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naju-dias/naju-dias/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naju-dias/naju-dias/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/naju-dias/naju-dias/output/github-contribution-grid-snake.svg">
+</picture>

@@ -1,4 +1,4 @@
-<h1>Olá! 👋 Sou a Ana Julia Dias!</h1>
+<h1>Olá! 👋 Sou a Ana Julia Dias</h1>
 
 ###
 

@@ -7,8 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Tanker&weight=700&size=25&duration=2500&pause=800&color=9867f0&center=true&vCenter=true&width=600&lines=Engenheira+De+Software" alt="Typing" />
 </p>
 
-<p align=center">
-  Uma estudante de Engenharia de Software buscando desenvolver software significativo.
+<p>
+  Uma estudante apaixonada por novos desafios e soluções reais.
 </p>
 
 <br/>
@@ -20,7 +20,7 @@
 
 <hr/>
 
-<h2>Tech Stack</h2>
+<h2 align="center">Minhas Skills</h2>
 <div align="center">
   <br/>
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,threejs,python" />
@@ -31,6 +31,8 @@
 <hr/>
 
 ###
+
+<br/>
 
 <div align="center">
   <img height="180" src="https://i.gifer.com/1Dv5.gif"  />

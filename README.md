@@ -1,37 +1,42 @@
-<h1>Olá! 👋 Sou a Ana Julia Dias</h1>
+<h1 align="center">
+  Olá, sou a Ana Julia Dias 👋
+​</h1>
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Engenheira+de+Software;UX%2FUI+Designer;Desenvolvedora+FullStack)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E49ED&width=435&lines=Engenheira+de+Software+%3A)" alt="Typing SVG" /></a>
+</p>
 
-
-<p align="left"><p align="left">Sou uma estudante de Engenharia de Software apaixonada por tecnologia e em constante evolução. Atualmente focada na evolução das minhas habilidades em programação, explorando áreas como desenvolvimento web, segurança da informação, infraestrutura e design. Busco aplicar meus conhecimentos na criação de soluções eficientes e inovadoras, sempre aberta a novos desafios e oportunidades.</p>
+<p align=center">
+  .
+</p>
 
 </div>
-<div align="right"> 
+<div align="center"> 
   <a href="https://linkedin.com/in/najudias/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://naju-dias.github.io" target="_blank">
+  <a href="https://najudias.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
 <hr/>
 
-<h2>Linguagens-Frameworks-Tools</h2>
+<h2>Linguagens & Ferramentas</h2>
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,tailwind,git,github,figma,blender,grafana,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,threejs,python,fastapi,mysql,docker,git,github,vercel,figma,grafana" />
 <br>
 </div>
 
 <hr/>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naju-dias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naju-dias&layout-compact&langs_count=16&theme=dracula"/>
-</div>
+![](https://github-readme-stats.shion.dev/api?username=naju-dias&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=naju-dias&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=naju-dias&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 #
 
